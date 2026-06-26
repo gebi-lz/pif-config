@@ -1,0 +1,8 @@
+# pif-config.txt
+
+# 当前有效的 keybox URL（base64编码后4段拼接，用|分隔）
+# 这是 Integrity Box v37 的 URL (Megatron)
+KEYBOX_URL=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcm|NvbnRlbnQuY29tL01lb3dEdW1wL01lb3dEdW1wL3JlZ|nMvaGVhZHMvbWFpbi9|NZWdhdHJvbg==
+
+# 解码后的实际 URL: https://raw.githubusercontent.com/MeowDump/MeowDump/refs/heads/main/Megatron
+# 更新日期: 2026-06-26
